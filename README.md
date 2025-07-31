@@ -1,8 +1,8 @@
-# 🍽️ Online Food App (Backend)
+#  Online Food App (Backend)
 
 This is a simple backend for an Online Food Ordering App built with **Node.js**, **Express**, and **MongoDB**.
 
-## 📦 Features
+##  Features
 
 - User registration & login (JWT auth)
 - Admin & user roles with access control
@@ -12,7 +12,7 @@ This is a simple backend for an Online Food Ordering App built with **Node.js**,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
